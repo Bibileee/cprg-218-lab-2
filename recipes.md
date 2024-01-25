@@ -2,13 +2,13 @@
 
 ## Contents
 - [Appetizers](#appetizers)
-    - [Spinach and Artichoke Dip](#spinach-and-artichoke-dip)
-    - [Bruschetta](#bruschetta)
+ - [Spinach and Artichoke Dip](#spinach-and-artichoke-dip)
+ - [Bruschetta](#bruschetta)
 - [Entrees](#entrees)
-    - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
-    - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
+ - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
+ - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
-    - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+ - [Chocolate Chip Cookies](#chocolate-chip-cookies)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -115,3 +115,25 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Cake
+
+Ingredients
+- 1 cup white sugar
+- ½ cup unsalted butter
+- 2 large eggs
+- 2 teaspoons vanilla extract
+- 1 ½ cups all-purpose flour
+- 1 ¾ teaspoons baking powder
+- ½ cup milk
+
+Directions
+1. Gather all ingredients.
+2. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square cake pan.
+3. Cream sugar and butter together in a mixing bowl. Add eggs, one at a time, beating briefly after each addition. Mix in vanilla.
+4. Combine flour and baking powder in a separate bowl. Add to the wet ingredients and mix well. Add milk and stir until smooth.
+5. Pour batter into the prepared cake pan.
+6. Bake in the preheated oven until the top springs back when lightly touched, 30 to 40 minutes.
+7. Remove from the oven and cool completely.
+8. Enjoy!
+
